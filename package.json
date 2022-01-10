@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/jutalik/klaytn_kas_example#readme",
   "dependencies": {
+    "caver-js": "1.6.5",
     "caver-js-ext-kas": "1.9.0",
     "dotenv": "10.0.0"
   }
